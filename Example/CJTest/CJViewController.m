@@ -7,7 +7,6 @@
 //
 
 #import "CJViewController.h"
-
 @interface CJViewController ()
 
 @end

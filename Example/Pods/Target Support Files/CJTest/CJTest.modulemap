@@ -1,0 +1,6 @@
+framework module CJTest {
+  umbrella header "CJTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
